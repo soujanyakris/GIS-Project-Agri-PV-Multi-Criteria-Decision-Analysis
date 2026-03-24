@@ -24,7 +24,7 @@ Source: ESA WorldCover 10m (Extracted via Google Earth Engine).
 
 Processing: I built a custom cloud-pipeline to isolate cropland pixels and export them as a high-performance GeoTIFF.
 
-> The details on how to extract the cropland data using googth earth clound api is in the following repository Link: 
+> The details on how to extract the cropland data using googth earth clound api is in the following repository Link: https://github.com/soujanyakris/Agri-PV-MCDA-Cloud-Geospatial-Data-Extraction
 
 File: karnataka_cropland_new.tif
 
